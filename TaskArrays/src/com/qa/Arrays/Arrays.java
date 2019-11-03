@@ -37,7 +37,8 @@ public class Arrays {
 
         //Variant 3
             for (int i = 0; i < intArrayNotEmpty.length; i++){
-            switch (intArrayNotEmpty[i]) {
+
+                switch (intArrayNotEmpty[i]) {
 
                 case 1:
                     System.out.println("False");
