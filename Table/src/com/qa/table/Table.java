@@ -28,11 +28,11 @@ public class Table extends JFrame {
         String[][] data = {
                 {"byte", "-", "A", "A","A","A","A","A","X"},
                 {"short", "NA", "-", "A","A","A","A","A","X"},
-                {"char", "NA", "NA", "-","A","A","A","A","x"},
+                {"char", "NA", "NA", "-","A","A","A","A","X"},
                 {"int", "NA", "NA", "NA","-","A","A","A","X"},
                 {"long", "NA", "NA", "NA","NA","-","A","A","X"},
                 {"float", "NA", "NA", "NA","NA","NA","-","A","X"},
-                {"double", "NA", "NA", "NA","NA","NA","NA","-","NA"},
+                {"double", "NA", "NA", "NA","NA","NA","NA","-","X"},
                 {"boolean", "X", "X", "X","X","X","X","X","-"},
 
         };
