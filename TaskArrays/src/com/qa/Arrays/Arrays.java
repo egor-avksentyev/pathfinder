@@ -27,8 +27,7 @@ public class Arrays {
           System.err.println("Something went wrong");
       }
 
-
-       //Variant 2
+        //Variant 2
 
         for (int i = 0; i < intArrayNotEmpty.length; i++) {
             System.out.println(intArrayNotEmpty[i] % 2 != 1 ? "True" : "False");
