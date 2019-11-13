@@ -4,7 +4,13 @@ import java.sql.SQLOutput;
 
 public class Return implements InterfaceTest {
 
-   public String returnDayNameByNum(int numOfDay){
+    /**
+     * returnDayNameByNum method
+     *
+     * @param  numOfDay number of day
+     * @return          the name of the day
+     */
+    public String returnDayNameByNum(int numOfDay){
 
       String dayName = "" ;
 
@@ -32,14 +38,16 @@ public class Return implements InterfaceTest {
                break;
        }
 
-return dayName;
-
-
+       return dayName;
     }
 
-
-
-   public Integer  returnDayNumByName (String name){
+    /**
+     * returnDayNumByName method
+     *
+     * @param  name of the day
+     * @return      the day number
+     */
+    public Integer  returnDayNumByName (String name){
 
        int dayNumber =  0 ;
 
@@ -68,19 +76,13 @@ return dayName;
        }
 
        return dayNumber;
-
     }
 
+    /**
+     * printPhrase method
+     */
    public void  printPhrase (){
-
        String random = "Blyaaaaaaaat!!!!!!";
-
        System.out.println(random);
-
     }
-
-
-
-
-
 }

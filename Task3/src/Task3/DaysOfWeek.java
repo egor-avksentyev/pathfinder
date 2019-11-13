@@ -1,5 +1,8 @@
 package Task3;
 
+/**
+Enum with days of week
+ */
 public enum DaysOfWeek {
 
     MONDAY("Monday",1),
@@ -13,17 +16,30 @@ public enum DaysOfWeek {
     private String value;
     private Integer dayNumber;
 
-
-    DaysOfWeek(String name , int number) {
-            this.value = name;
-            this.dayNumber = number;
-
+    /**
+     * Constructor DaysOfWeek
+     *
+     * @param name   the name of day of week
+     * @param number the number of exact day of week
+     * */
+    DaysOfWeek(String name, int number) {
+        this.value     = name;
+        this.dayNumber = number;
     }
 
+    /**
+     * GetValue method that returns value
+     *
+     * @return the name of day of week
+     * */
     public String getValue() {
         return value;
     }
 
+    /**
+     * GetDayNumber method that returns daynumber
+     * @return the number of day
+     * */
     public Integer getDayNumber() {
         return dayNumber;
     }
