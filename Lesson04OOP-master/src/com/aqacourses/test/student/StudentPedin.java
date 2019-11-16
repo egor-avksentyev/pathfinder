@@ -58,7 +58,7 @@ public class StudentPedin extends Student implements ParseFileInterface, WriteTo
                 studentData.add(data.get(i + 1));
                 studentData.add(data.get(i + 2));
                 if (isDataValid(studentData) && validateStudent(studentData)) {
-                    System.out.println(studentData);
+                    System.out.println("Already validated student(s) that written to the database"+studentData);
                     for (String datum : studentData) {
                         printWriter.println(getDate() + " - " + datum);
                     }

@@ -1,9 +1,0 @@
-Valera
-32
-Male
-Tanya
-21
-Female
-Bogdan
-21
-Underfined

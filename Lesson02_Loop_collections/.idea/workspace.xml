@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a6e33f44-1c83-4276-b6cb-e4267642dd2c" name="Default Changelist" comment="" />
+    <list default="true" id="a6e33f44-1c83-4276-b6cb-e4267642dd2c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson04OOP-master/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/META-INF/Lesson04OOP-master.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/aqacourses/test/runner/Runner.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/aqacourses/test/runner/Runner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/aqacourses/test/student/AbstractStudent.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/aqacourses/test/student/AbstractStudent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/aqacourses/test/student/StudentPedin.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/aqacourses/test/student/StudentPedin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/resources/MSSQL-DB.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/resources/MSSQL-DB.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/resources/Students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/out/production/Lesson04OOP-master/com/resources/Students.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/aqacourses/test/student/AbstractStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/aqacourses/test/student/AbstractStudent.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/aqacourses/test/student/StudentPedin.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/aqacourses/test/student/StudentPedin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/resources/MSSQL-DB.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/resources/MSSQL-DB.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/resources/Students.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Lesson04OOP-master/src/com/resources/Students.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +32,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1TD9eTzxGRdCJkLWBJaFZ9OoTlH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -52,5 +73,16 @@
       <updated>1572983894031</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

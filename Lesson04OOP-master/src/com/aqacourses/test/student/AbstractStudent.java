@@ -45,7 +45,7 @@ public abstract class AbstractStudent {
 
        int age  =   Integer.parseInt(studentData.get(1)) ;
 
-        if (!studentData.get(0).isEmpty() && age>=17 && age<=25 & (studentData.get(2).contains("Male") || studentData.get(2).contains("Female"))){
+        if (!studentData.get(0).isEmpty() && age>=17 && age<=25 && (studentData.get(2).contains("Male") || studentData.get(2).contains("Female"))){
 
             return true;
 
